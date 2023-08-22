@@ -1,18 +1,18 @@
 const cardList = [{
     title: 'cat 2',
-    path: 'images/cat2.png',
+    path: 'images/kitten-2.png',
     subTitle: 'About Cat 2',
     description: 'Description of Cat 2'
 },
 {
     title: 'cat 3',
-    path: 'images/cat3.png',
+    path: 'images/kitten-3.png',
     subTitle: 'About Cat 3',
     description: 'Description of Cat 3'
 },
 {
     title: 'cat 4',
-    path: 'images/cat4.png',
+    path: 'images/kitten.png',
     subTitle: 'About Cat 4',
     description: 'Description of Cat 4'
 }];
